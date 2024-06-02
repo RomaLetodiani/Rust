@@ -4,7 +4,7 @@ fn main() {
 
     println!("{s}");
 }
-
+// if you will not use borrow operator, the code will not compile
 fn takes_ownership(some_string: &String) {
     println!("{some_string}");
 }
