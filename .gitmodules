@@ -1,0 +1,3 @@
+[submodule "snake_game"]
+	path = snake_game
+	url = https://github.com/RomaLetodiani/Snake-Game
